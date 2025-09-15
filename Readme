@@ -1,0 +1,35 @@
+# Band Name Generator 🎸
+
+A simple Python program that generates unique band names by combining your city and pet's name. Perfect for beginners learning Python basics!
+
+## Features
+
+- Interactive command-line interface
+- Fun animation effects
+- Option to generate multiple names
+- Clean and beginner-friendly code
+
+## How to Use
+
+1. Clone this repository
+2. Run the script: `python band_name_generator.py`
+3. Answer the prompts:
+   - Enter the city you grew up in
+   - Enter the name of your first pet
+4. Get your unique band name!
+
+## Requirements
+
+- Python 3.x
+
+## About
+
+This project was created as part of a 100-day Python bootcamp. It demonstrates fundamental Python concepts like:
+- User input handling
+- String manipulation
+- Function definition
+- Basic control flow
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
